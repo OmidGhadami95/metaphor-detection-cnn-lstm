@@ -4,7 +4,7 @@ Metaphor detection using cnn lstm
 
 CNN_LSTM.ipynb implements a complex deep learning model for text classification using a combination of convolutional neural networks (CNNs) and long short-term memory (LSTM) networks for the metaphor detection task. Here's a comprehensive report on the code:
 
-#Data Preprocessing:
+#Data Preprocessing#:
 
 The code starts by importing necessary libraries and downloading required NLTK data.
 

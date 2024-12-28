@@ -1,7 +1,7 @@
 # metaphor-detection-cnn-lstm
 Metaphor detection using cnn lstm
 
-<a href="https://ibb.co/tpdbW5M"><img src="https://i.ibb.co/1GS9wxf/Screenshot-12-27-2024-9-11-52-PM.png" alt="Screenshot-12-27-2024-9-11-52-PM" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice roll simulator</a><br />
+<a href="https://ibb.co/tpdbW5M"><img src="https://i.ibb.co/1GS9wxf/Screenshot-12-27-2024-9-11-52-PM.png" alt="metaphor_detection" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
 
 Preprocessing_Plus_Visualization.ipynb implements a comprehensive data preprocessing pipeline for a text classification dataset. Here's a detailed report of the steps and their purposes:
 
